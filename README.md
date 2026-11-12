@@ -79,7 +79,6 @@ The application opens on a navigation form with one tab per table.
 | `sql/03_sample_data.sql` | Sample data as `INSERT` statements |
 | `sql/04_reporting_queries.sql` | Six reporting queries |
 | `vba/automation_form.bas` | VBA behind the two automation buttons |
-| `The University Project Activities Database Project-Sijie Hu.pdf` | Full design report (22 pages): requirements, E-R model, normalization, SQL, application |
 | `university-project-activities-database.pptx` | Editable source of the E-R diagram |
 
 The `.sql` files are there so the schema can be read on GitHub without opening Access. They use Access SQL (`CURRENCY`, `SHORT`, `#date#` literals, `Nz()`).
